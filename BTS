@@ -1,0 +1,49 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MW ARMY Stream Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #faf7ff;
+      padding: 16px;
+    }
+    h1 { color: #6a0dad; }
+    iframe { width: 100%; max-width: 560px; }
+    .rule {
+      background: #eee;
+      padding: 10px;
+      margin-bottom: 16px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🇲🇼 MW ARMY Stream Hub 💜</h1>
+
+<div class="rule">
+▶ Press play yourself<br>
+🔊 Keep volume on<br>
+⏱ Watch most of the video<br>
+🔁 Switch videos manually
+</div>
+
+<h2>BTS – ON (Official MV)</h2>
+<iframe height="315"
+src="https://www.youtube.com/embed/mPVDGOVjRQ0"
+allow="encrypted-media; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+<h2>🎧 BTS Spotify Playlist</h2>
+<iframe height="380"
+src="https://open.spotify.com/embed/playlist/https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX?si=ACDJAA2_QYWBhInW1gMDrw"
+allow="encrypted-media">
+</iframe>
+
+</body>
+</html>
